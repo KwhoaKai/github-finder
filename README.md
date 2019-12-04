@@ -5,6 +5,29 @@ A React app that uses the GitHub API to fetch and display user data.
 Search for users and see the number of followers they have, their repos, and more.
 Uses the Context API + Hooks to manage global application state.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
