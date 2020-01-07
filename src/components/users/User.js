@@ -5,7 +5,7 @@ import Repos from "../repos/Repos";
 import GithubContext from "../../context/github/githubContext";
 
 const User = ({ match }) => {
-  // Not passing in searchUser as props anymore, useContext hooks into Context to grab state info
+  // Not passing in searchUser as props anymore, use Context hooks into Context to grab state info
   const githubContext = useContext(GithubContext);
 
   const { getUser, loading, user, getUserRepos, repos } = githubContext;

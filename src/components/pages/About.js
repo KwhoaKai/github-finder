@@ -5,8 +5,8 @@ const About = () => {
     <React.Fragment>
       <h1>About this app</h1>
       <p>App to search Github users</p>
-      <p>I wanna die</p>
+      <p>Built with React and Context hooks.</p>
     </React.Fragment>
-  )
-}
+  );
+};
 export default About;
